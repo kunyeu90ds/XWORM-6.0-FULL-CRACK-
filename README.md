@@ -1,20 +1,11 @@
-# XWorm V5.6 Edition
+# XWorm V6.0 Edition
 
 <b>
 
-This Project Contains XWorm V5.6 FULL Source Codes
+This Project Contains XWorm V6.0 FULL CRACK
 
-## Compilation and Usage
-
-- Download the project to your computer.
-- Extract the Project to a Folder.
-- Download Visual Studio to your computer
-- Open the solution file (.sln).
-- Select **Build Solution** from the **Build** menu.
-
-
-Enjoy!
-</b>
+<img width="1002" height="836" alt="Capture3" src="https://github.com/user-attachments/assets/d5b9c1a4-1f2f-47db-a10e-2dcc44f0823b" />
+<img width="1150" height="692" alt="Capture1" src="https://github.com/user-attachments/assets/b8c28d27-d703-4fa1-ad9e-b70baa743b70" />
 
 ## Features
 
@@ -261,23 +252,13 @@ Size : 49.0 KB [Full Features]
 
 Best Software Quality Ever
 
+
+
 </b>
 
-## Overview
 
-![videos](https://github.com/user-attachments/assets/afe5a729-4459-4876-9ba6-6ed07a73565e)
 
-## Notes
 
-- This code is provided for learning and experimentation purposes only.
-
-## Author
-
-[XCoder](https://github.com/)
-
-## Disclaimer
-
-**This content is provided for learning and testing purposes only. The information presented is for general information purposes and does not address any specific situation. No warranty is given as to the timeliness, accuracy or completeness of the information contained in the content. In connection with the use of these materials, no liability is accepted for any consequences or damages that may result from the use of the information or recommendations contained in the content.**
 
 ## License
 
